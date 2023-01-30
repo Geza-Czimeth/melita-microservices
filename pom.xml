@@ -16,6 +16,7 @@
   <modules>
     <module>spring-cloud-config</module>
     <module>care-microservice</module>
+    <module>fulfilment-microservice</module>
   </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
