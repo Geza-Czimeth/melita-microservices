@@ -20,3 +20,17 @@ Java Developer Task 1.pdf
 ### Postman file for integration testing
 
 Melita Order Service Integration tests.postman_collection.json
+
+
+### Improvements for next iteration
+Use object mappers like:
+https://modelmapper.org/
+
+https://mapstruct.org/
+
+Exception handling/error handling
+
+All error message back to the client must be in Json format, even validation errors.
+
+DTOs
+Always use DTO when sending message to JMS, even if the data does not change, this is to show that you care.
