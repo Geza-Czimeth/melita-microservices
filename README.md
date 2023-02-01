@@ -31,6 +31,7 @@ https://mapstruct.org/
 Exception handling/error handling
 
 All error message back to the client must be in Json format, even validation errors.
+Have ErrorDetails object to generalise error handler. See course.
 
 DTOs
 Always use DTO when sending message to JMS, even if the data does not change, this is to show that you care.
